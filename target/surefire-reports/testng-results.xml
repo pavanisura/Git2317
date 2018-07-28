@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35498" started-at="2018-05-24T22:22:43Z" finished-at="2018-05-24T22:23:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35498" started-at="2018-05-24T22:22:43Z" finished-at="2018-05-24T22:23:18Z">
+      <class name="testng_package.Fb_Class_Testng_Class">
+        <test-method status="PASS" signature="Application()" name="Application" is-config="true" duration-ms="30292" started-at="2018-05-24T22:22:43Z" finished-at="2018-05-24T22:23:13Z">
+        </test-method>
+        <test-method status="PASS" signature="FB_RadioButton()" name="FB_RadioButton" is-config="true" duration-ms="515" started-at="2018-05-24T22:23:13Z" finished-at="2018-05-24T22:23:13Z">
+        </test-method>
+        <test-method status="PASS" signature="FB_TextBox()" name="FB_TextBox" duration-ms="1707" started-at="2018-05-24T22:23:13Z" finished-at="2018-05-24T22:23:15Z">
+        </test-method>
+        <test-method status="PASS" signature="FB_dropdown()" name="FB_dropdown" is-config="true" duration-ms="2972" started-at="2018-05-24T22:23:15Z" finished-at="2018-05-24T22:23:18Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
